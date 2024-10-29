@@ -5,6 +5,7 @@ description = "odsc2024"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "altair>=5.4.1",
     "catboost>=1.2.7",
     "gpxpy>=1.6.2",
     "matplotlib>=3.9.2",
