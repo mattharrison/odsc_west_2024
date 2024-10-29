@@ -1,0 +1,17 @@
+[project]
+name = "odsc2024"
+version = "0.1.0"
+description = "odsc2024"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "catboost>=1.2.7",
+    "matplotlib>=3.9.2",
+    "notebook>=7.2.2",
+    "pandas>=2.2.3",
+    "plotly>=5.24.1",
+    "polars>=1.12.0",
+    "pyarrow>=18.0.0",
+    "scikit-learn>=1.5.2",
+    "xlrd>=2.0.1",
+]
