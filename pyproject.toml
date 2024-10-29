@@ -16,4 +16,5 @@ dependencies = [
     "pyarrow>=18.0.0",
     "scikit-learn>=1.5.2",
     "xlrd>=2.0.1",
+    "yellowbrick>=1.5",
 ]
